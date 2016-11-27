@@ -130,7 +130,7 @@ Since the name that is printed first gets shuffled through StorageForShortName, 
 
 As with the standard Inform template, the algorithm for checking which form of the indefinite article should be used is simply "Does it start with a vowel?" So if we do not directly specify articles, we will get "a hourglass" and "an one-hour photo booth." If you are interested in my code for trying to address this, or in anything else about the extension, contact me at myfirstname@myfirstnamemylastname.net.
 
-Thanks to Taryn Michelle, whose Print Stage Detection extension was a very helpful gude; Natrium, for reminding me of Print Stage Detection; and Daniel Fremont, for invaluable I6 assistance.
+Thanks to Taryn Michelle, whose Print Stage Detection extension was a very helpful gude; Nathanaël Marion, for reminding me of Print Stage Detection; and Daniel Fremont, for invaluable I6 assistance.
 
 Example A demonstrates that the traffic signal's name properly cycles through "a green traffic signal"/"an amber traffic signal"/"a red traffic signal". Without the extension it would be "a amber traffic signal"/"an red traffic signal"/"a green traffic signal". Various other things are included to demonstrate that nested indefinite articles, proper-named things, plural-named things, and things with custom indefinite articles still appear to print properly.
 
